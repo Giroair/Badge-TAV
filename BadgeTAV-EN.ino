@@ -1,4 +1,4 @@
-/*Codi for a Badge for Tecnoateneu de Vilablareix.
+/*Code for a Badge for Tecnoateneu de Vilablareix.
  ATTiny85 based.
  It uses pins PB0 to PB3 to controll 12 LEDs using Charlieplexing technique.
 Link to the schematic: http://www.technoblogy.com/show?1ONY
